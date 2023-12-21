@@ -1,0 +1,35 @@
+.main-table{
+    display: table-column;
+    grid-column: span 2;
+    overflow-y: scroll;
+}
+.table-auto{
+    width: 100%;
+}
+.text-white{
+    color: #FFF;
+    height: 3rem;
+}
+.colum{
+    background-color: #2d3748;
+    height: 3rem;
+    color: #a0aec0;
+}
+.colum:hover{
+    background-color: #4a5568;
+}
+.idsongs{
+    background-color: #4a5568;
+    color: #38b2ac;
+}
+.text-cente{
+    text-align: center;
+}
+.search-input{
+    width: 200px;
+    height: 22px;
+    border-radius: 15px;
+    padding: 10px;
+    border:none;
+    margin: 20px;
+}
